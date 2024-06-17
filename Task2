@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yahoo!</title>
+</head>
+<body>
+    <center>
+        <h1>Yahoo!</h1>
+        <p><b>Your Guide to the Internet</b></p>
+        <form action="https://search.yahoo.com/search" method="get">
+            <input type="text" name="p" size="30" maxlength="255" placeholder="Search Yahoo!">
+            <input type="submit" value="Search">
+        </form>
+        <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/">Visit the original Yahoo! homepage</a></p>
+    </center>
+
+    <hr>
+
+    <h2>Categories</h2>
+    <ul>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Arts/">Arts & Humanities</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Business/">Business & Economy</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Computers/">Computers & Internet</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Education/">Education</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Entertainment/">Entertainment</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Health/">Health</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/News/">News & Media</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Recreation/">Recreation & Sports</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Reference/">Reference</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Regional/">Regional</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Science/">Science</a></li>
+        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Society/">Society & Culture</a></li>
+    </ul>
+
+    <hr>
+
+    <h2>What's New</h2>
+    <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/whatsnew.html">New Sites Added Today</a></p>
+
+    <h2>What's Cool</h2>
+    <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/whatscool.html">Cool Sites of the Day</a></p>
+
+    <h2>Help</h2>
+    <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/help.html">Help with Searching</a></p>
+
+    <hr>
+
+    <footer>
+        <p>&copy; 1996 Yahoo! Inc.</p>
+        <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/">Original Yahoo! Homepage (Oct 22, 1996)</a></p>
+    </footer>
+</body>
+</html>
