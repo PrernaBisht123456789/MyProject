@@ -2,53 +2,49 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Yahoo!</title>
+    <title>Lycos</title>
 </head>
 <body>
     <center>
-        <h1>Yahoo!</h1>
-        <p><b>Your Guide to the Internet</b></p>
-        <form action="https://search.yahoo.com/search" method="get">
-            <input type="text" name="p" size="30" maxlength="255" placeholder="Search Yahoo!">
+        <h1>Welcome to Lycos!</h1>
+        <p>Your personal internet guide</p>
+        <form action="https://search.lycos.com/" method="get">
+            <label for="search">Search the web:</label>
+            <input type="text" id="search" name="query" size="30">
             <input type="submit" value="Search">
         </form>
-        <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/">Visit the original Yahoo! homepage</a></p>
     </center>
 
     <hr>
 
     <h2>Categories</h2>
     <ul>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Arts/">Arts & Humanities</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Business/">Business & Economy</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Computers/">Computers & Internet</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Education/">Education</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Entertainment/">Entertainment</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Health/">Health</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/News/">News & Media</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Recreation/">Recreation & Sports</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Reference/">Reference</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Regional/">Regional</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Science/">Science</a></li>
-        <li><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/Society/">Society & Culture</a></li>
+        <li><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/News/">News</a></li>
+        <li><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/Sports/">Sports</a></li>
+        <li><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/Weather/">Weather</a></li>
+        <li><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/Finance/">Finance</a></li>
+        <li><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/Entertainment/">Entertainment</a></li>
+        <li><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/Travel/">Travel</a></li>
     </ul>
 
     <hr>
 
-    <h2>What's New</h2>
-    <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/whatsnew.html">New Sites Added Today</a></p>
+    <h2>Top Searches</h2>
+    <ol>
+        <li><a href="#">1997 World Series</a></li>
+        <li><a href="#">Diana's Funeral</a></li>
+        <li><a href="#">Titanic Movie</a></li>
+        <li><a href="#">NASA Mars Rover</a></li>
+        <li><a href="#">Harry Potter Book</a></li>
+    </ol>
 
-    <h2>What's Cool</h2>
-    <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/whatscool.html">Cool Sites of the Day</a></p>
-
-    <h2>Help</h2>
-    <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/help.html">Help with Searching</a></p>
+    <p>Visit <a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/">Lycos Archive</a> for more information.</p>
 
     <hr>
 
     <footer>
-        <p>&copy; 1996 Yahoo! Inc.</p>
-        <p><a href="https://web.archive.org/web/19961022175412/http://www.yahoo.com/">Original Yahoo! Homepage (Oct 22, 1996)</a></p>
+        <p>&copy; 1997 Lycos, Inc.</p>
+        <p><a href="https://web.archive.org/web/19971008045158/http://www.lycos.com/">Original Lycos Homepage (Oct 8, 1997)</a></p>
     </footer>
 </body>
 </html>
